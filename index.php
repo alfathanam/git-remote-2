@@ -22,5 +22,12 @@
             kapal 
         </li>
     </ul>
+    <script>
+        const name = {
+            nama: 'alfathanam',
+            umur: 22
+        }
+        console.info(name.nama + name.umur);
+    </script>
 </body>
 </html>
