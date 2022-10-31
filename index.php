@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Hello world git remote 2</h1>
+    <p>Coba git remote</p>
 </body>
 </html>
